@@ -1,0 +1,12 @@
+{
+  "name": "personal-access-token",
+  "version": "1.0.0",
+  "private": true,
+  "main": "src/emailValidator.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
